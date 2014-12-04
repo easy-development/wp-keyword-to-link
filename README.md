@@ -1,4 +1,4 @@
-wp-keyword-to-link
+Wordpress Keywords To Link
 ==================
 
 Transform Keywords into links automatically all over your blog.
